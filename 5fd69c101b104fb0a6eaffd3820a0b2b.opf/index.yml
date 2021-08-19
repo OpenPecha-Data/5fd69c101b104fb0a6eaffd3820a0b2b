@@ -3,7 +3,7 @@ annotation_type: index
 revision: '00001'
 annotations:
   8cf1d078e15a4340a440ae129187336a:
-    parts: []
+    parts: {}
     span:
     - vol: 1
       start: 0
